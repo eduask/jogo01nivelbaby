@@ -27,6 +27,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Keyboard.Cnds.OnKey,
 		C3.Behaviors.Platform.Acts.SimulateControl,
 		C3.Plugins.Keyboard.Cnds.IsKeyDown,
+		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.Sprite.Acts.SetPos,
 		C3.Plugins.Text.Acts.SetPos,
 		C3.Plugins.Sprite.Acts.SetVisible,
